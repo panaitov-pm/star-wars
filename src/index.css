@@ -1,0 +1,26 @@
+* {
+  box-sizing:border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Skranji', cursive;
+}
+.ui.menu, h1, h2, h3, .ui.button {
+  font-family: 'Skranji', cursive;
+}
+
+a {
+  color :inherit;
+}
+a:hover {
+   color: inherit;
+ }
+.container {
+  margin-left :auto;
+  margin-right :auto;
+  width :90%;
+  padding-left :15px;
+  padding-right :15px;
+}
